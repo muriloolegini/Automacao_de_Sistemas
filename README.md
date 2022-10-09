@@ -106,7 +106,7 @@ Quantidade de produtos vendidos: {quantidade:,}
 
 Qualquer dúvida estou à disposição.
 Att.,
-Murilo Python
+Dr Python
 """
 
 # formatação dos números (moeda, dinheiro)
